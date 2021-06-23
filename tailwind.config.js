@@ -50,7 +50,7 @@ module.exports = {
       },
       
       backgroundImage: theme => ({
-        'landing-page': "url('./Image/Star_Img.webp')",
+        'landing-page': "url('Star_Img.webp')",
       }),
       backgroundPosition: {
         '1/2': "50%",
